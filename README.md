@@ -1,5 +1,9 @@
-# my
-just a  repository
-HTML5
-CSS3
-Javascript5
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SITE</title>
+  </head>
+  <body>
+    <h1>Heading</h1>
+  </body>
+</html>
